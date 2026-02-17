@@ -45,20 +45,8 @@ Construindo APIs robustas, bem estruturadas e escaláveis.
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/LuanLisboa2020&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/LuanLisboa2020&layout=compact&theme=dark)
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-lisboa-de-ara%C3%BAjo-lima-346b8a355/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lluan4593@gmail.com)
-
----
-
-> "Código limpo não é um luxo, é responsabilidade."
