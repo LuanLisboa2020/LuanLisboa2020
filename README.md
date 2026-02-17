@@ -1,6 +1,6 @@
 ### E aí! Seja bem-vindo ao meu GitHub
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00F7FF&width=700&lines=Java%20%7C%20Spring%20%7C%20Swagger%20%7C%20SQL%20%7C%20NoSQL%20%7C%20Git;Caf%C3%A9%20na%20m%C3%A3o%2C%20mente%20focada%E2%80%A6%20cada%20bug%20%C3%A9%20apenas%20mais%20um%20desafio." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00F7FF&width=700&lines=Java%20%7C%20Spring%20%7C%20Swagger%20%7C%20SQL%20%7C%20NoSQL%20%7C%20Git;Caf%C3%A9%20na%20m%C3%A3o%2C%20mente%20focada%E2%80%A6%20cada%20bug%20%C3%A9%20apenas%20mais%20um%20desafio."/>
 
 ---
 
