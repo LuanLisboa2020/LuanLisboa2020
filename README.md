@@ -6,7 +6,7 @@
 
 ### ☕ Desenvolvedor Back-end | Java & Spring Boot
 
-Construindo APIs robustas, bem estruturadas e escaláveis.
+Explorando o mundo das APIs, aprendendo com cada linha de código.
 
 ---
 
