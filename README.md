@@ -1,5 +1,6 @@
 ### E aí! Seja bem-vindo ao meu GitHub
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+%7C+Swagger+%7C+SQL+%7C+NoSQL+%7C+Git;Código+limpo,+APIs+robustas+e+Monster+sempre+por+perto." alt="Typing SVG" />
+
+<<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+%7C+Swagger+%7C+SQL+%7C+NoSQL+%7C+Git;Código+limpo,+APIs+robustas+e+Monster+sempre+por+perto." alt="Typing SVG" />
 
 ---
 
