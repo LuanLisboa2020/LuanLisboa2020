@@ -1,6 +1,6 @@
 ### E aí! Seja bem-vindo ao meu GitHub
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=700&lines=Java%20%7C%20Spring%20%7C%20Swagger%20%7C%20SQL%20%7C%20NoSQL%20%7C%20Git;APIs%20robustas%20e%20Monster%20sempre%20por%20perto." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=700&lines=Café%20quente%20na%20mão%20%7C%20Codando%20sem%20pressa%20%7C%20Resenha%20com%20a%20galera%20%7C%20Git%20sempre%20por%20perto." />
 
 ---
 
