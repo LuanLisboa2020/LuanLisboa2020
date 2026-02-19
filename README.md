@@ -15,11 +15,11 @@ Explorando o mundo das APIs, aprendendo com cada linha de código.
 - 💻 Foco em desenvolvimento **Back-end com Java**
 - 🌱 Experiência com **Spring Boot e APIs REST**
 - 🗄️ Modelagem e integração com **PostgreSQL e MongoDB**
-🧠 Aplicação de boas práticas de desenvolvimento:
-Estruturação em arquitetura em camadas
-Separação de responsabilidades com DTOs
-Tratamento global de exceções
-Princípios de código limpo
+- 🧠 Aplicação de boas práticas de desenvolvimento:
+- Estruturação em arquitetura em camadas
+- Separação de responsabilidades com DTOs
+- Tratamento global de exceções
+- Princípios de código limpo
 - 🔐 Interesse em segurança com **Spring Security & JWT**
 - 📚 Evoluindo constantemente na área de engenharia de software
 
